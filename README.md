@@ -1,0 +1,2 @@
+# premium-crystal-glaze-001-zinc-crystal-growth-firing-gui
+Frustrated by unpredictable zinc crystal results? Your firing schedules are inconsistent, your crystals won't grow properly, and you're wasting glazes trying to reverse-engineer the perfect conditions.  The Zinc Crystal Growth Firing Guide is a comprehensive Notion template that eliminates the guesswork from crystal glaze development. It combines f
